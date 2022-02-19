@@ -17,4 +17,5 @@
 .prettierignore
 
 
-../design/
+
+./design/
