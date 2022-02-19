@@ -17,4 +17,4 @@
 .prettierignore
 
 
-./images/
+../design/
